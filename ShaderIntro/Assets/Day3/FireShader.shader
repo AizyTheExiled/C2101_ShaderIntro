@@ -1,4 +1,4 @@
-﻿Shader "Unlit/FireShader"
+﻿Shader "Unlit/WallhackShader"
 {
     Properties // the UI of the Shader
     {
