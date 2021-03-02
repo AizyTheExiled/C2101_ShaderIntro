@@ -26,5 +26,5 @@ Material:
     - Color_83701EB4: {r: 0.2540979, g: 0.21226418, b: 1, a: 0}
     - Vector3_4BD04A34: {r: 0, g: 0.35, b: 0, a: 0}
     - Vector3_BCD05CE: {r: 0, g: 1.77, b: 0, a: 0}
-    - WaterLevelNormal: {r: 0, g: -0.00037038326, b: -1.0000001, a: 0}
-    - WaterLevelOrigin: {r: 115, g: 1.253302, b: 36.22588, a: 0}
+    - WaterLevelNormal: {r: 0.07793798, g: 0.99651575, b: -0.029699236, a: 0}
+    - WaterLevelOrigin: {r: 114.549095, g: 10.140671, b: 26.748123, a: 0}
